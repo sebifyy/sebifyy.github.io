@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+@import url('https://fonts.googleapis.com/css?family=Lato');
+body {
+	background-color: #1b4163;
+}
+h1 {
+	color: #ddb000;
+	font-family: Oswald;
+	text-align: center;
+	letter-spacing: 5px;
+	text-transform: uppercase;
+}
+
+a {
+	color: #ffcf11;
+	font-family: Lato;
+	display: block;
+	text-align: center;
+	font-size: 32px;
+	text-decoration: none;
+}
+
+a:hover {
+	color: white;
+	background-color: #ffcf11;
+}
